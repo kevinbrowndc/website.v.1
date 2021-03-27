@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description" content="The most competitive digital agency in Cyprus offering detailed analytics about your digital footprint and opportunities to increase your digital presence and grow your brand.">
+  <meta name="keywords" content="Digital Consulting, Digital Analytics, Digital Management, Digital Advocacy, Digital Design, Digital Haus">
+
+  <meta property="og:url" content="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609401650/digital_haus/social-media_avgngy.jpg" />
+  <link rel="shortcut icon" href="https://res.cloudinary.com/ddwt8eygx/image/upload/v1607613977/digital_haus/favicon_naglja.png" type="image/x-icon">
+  <link rel="icon" href="https://res.cloudinary.com/ddwt8eygx/image/upload/v1607613977/digital_haus/favicon_naglja.png" type="image/x-icon">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <link rel="image_src" href="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609401650/digital_haus/social-media_avgngy.jpg" />
+    <meta property="og:title" content="About Us. | Digital Haus"/>
+    <meta property="og:url" content="https://www.digitalhaus.io/about.html"/>
+    <meta property="og:image" content="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609401650/digital_haus/social-media_avgngy.jpg">
+
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/css-social-buttons/1.4.0/css/zocial.min.css">
+  <link rel="stylesheet" href="static/utilities.css">
+  <link rel="stylesheet" href="static/style.css">
+
+
+
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "Kevin R. Brown",
+        "url": "https://www.digitalhaus.io/about",
+        "image": "https://i.imgur.com/dx0Jd9R.jpg",
+        "sameAs": "https://www.hrinnovate.org/kevin-brown",
+        "jobTitle": "Founder & Director",
+        "email": "kevin@digitalhaus.io",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Digital Haus"
+        }
+    }
+
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WZC91F097L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WZC91F097L');
+</script>
+
+  <title>About | Digital Haus</title>
+</head>
+<body>
+
+  <div class="menu-wrap">
+    <input type="checkbox" class="toggler">
+    <div class="hamburger"><div></div></div>
+    <div class="menu">
+      <div>
+        <div>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/services">Services</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="logo-1">
+    <a href="https://www.digitalhaus.io/" class='nav-logo'> <img src="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609399259/digital_haus/digitalhausLOGOfull1_zyaxgs.jpg" alt="Digital Haus"></a>
+  </div>
+
+  <div class="flex-columns">
+    <div class="row">
+      <div class="column">
+        <div class="column-1">
+          <img src="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609350365/digital_haus/kevin_hh6vcd.jpg" alt="Kevin R. Brown">
+          <div class="social">
+
+        </div>
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="column-2">
+          <h3>Founder & Director - Kevin R. Brown</h3>
+          <div class="social">
+            <a href="tel:+35796782489"><i class="fas fa-phone-alt"></i></a>
+            <a href="mailto:kevin@digitalhaus.io"><i class="fas fa-envelope-square"></i></a>
+            <a href="https://telegram.me/digitalhaus_kb" target="blank"><i class="fab fa-telegram"></i></a>
+            <a href=https://www.hrinnovate.org/kevin-brown" target="_blank"><i class="fas fa-globe"></i></a>
+            <a href="https://www.facebook.com/SnakeMasterNinja/" target="_blank"><i class="fab fa-facebook-square"></i></a>
+            <a href="https://www.linkedin.com/in/kevinraybrown/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.instagram.com/kevin.hrinnovate/ target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://twitter.com/kevinraybrown" target="_blank"><i class="fab fa-twitter-square"></i></a>
+            <a href="https://www.youtube.com/watch?v=6ia1K1HYE-8" target="_blank"><i class="fab fa-youtube-square"></i></a>
+            <a href="https://medium.com/community-hrinnovate/if-you-want-a-raise-learn-python-713c190f67a1" target="_blank"><i class="fab fa-medium"></i></a>
+            <a href="https://github.com/kevinbrowndc" target="_blank"><i class="fab fa-github-square"></i></a>
+          </div>
+          <h4>Born in the Washington DC Metropolitan area with roots in Kentucky and El Salvador, Kevin loves to travel and is drawn to technology and music. Kevin is a self professed fan of dogs and robots.</h4>
+
+
+
+        </div>
+      </div>
+
+
+    <div class="flex-columns">
+      <div class="row">
+        <div class="column">
+          <div class="column-1">
+            <iframe src="https://www.google.com/maps/embed?pb=!4v1609345251472!6m8!1m7!1sCAoSLEFGMVFpcE1hOW9BX3hFdW9ib0M5aFNxbFg2WjRuM2ZQaHhsaDdjLUsyV1JN!2m2!1d35.16106604!2d33.35533932!3f73.76203924894011!4f6.3947866459778595!5f0.7820865974627469" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+          </div>
+        </div>
+
+        <div class="column">
+          <div class="column-2">
+            <h3>HR Innovate</h3>
+            <div class="social">
+              <a href="tel:+35722000174"><i class="fas fa-phone-alt"></i></a>
+              <a href="mailto:info@hrinnovate.org"><i class="fas fa-envelope-square"></i></a>
+              <a href="https://www.hrinnovate.org" target="blank"><i class="fas fa-globe"></i></a>
+              <a href="https://www.facebook.com/hrinnovateorg/"><i class="fab fa-facebook-square"></i></a>
+              <a href="https://www.linkedin.com/company/hrinnovateorg/"><i class="fab fa-linkedin"></i></a>
+              <a href="https://www.instagram.com/hrinnovateorg/"><i class="fab fa-instagram"></i></a>
+              <a href="https://twitter.com/hrinnovateorg"><i class="fab fa-twitter-square"></i></a>
+              <a href="https://www.youtube.com/channel/UCmNhQz85chvzS4Jhi01FEcw" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube-square"></i></a>
+              <a href="https://medium.com/community-hrinnovate" target="_blank"><i class="fab fa-medium"></i></a>
+            </div>
+            <h4>Since March 2018, Digital Haus has been the driving force behind the technology and brand of HR Innovate. If you have seen or liked HR Innovate online, you have seen or liked Digital Haus.
+            </h4>
+               </div>
+        </div>
+      </div>
+  </div>
+  <div class="footer">
+    <div class="item item-1">
+      <h3>Digital Haus</h3>
+      <p>Nikita 5, Agioi Omologites</p>
+      <p>Nicosia, Cyprus 1082</p> <br>
+    </div>
+
+    <div class="item item-2">
+      <h3>Hours</h3>
+      <p>Monday through Thursday: 9am - 6pm</p>
+      <p>Friday: 9am - 2pm</p><br>
+    </div>
+
+    <div class="item item-3">
+      <h3>Contact</h3>
+      <a href="mailto:hello@digitalhaus.io">hello@digitalhaus.io</a><br>
+      <a href="tel:+35722000174">+357 22 000 174</a><br>
+    </div>
+  </div>
+
+
+
+<div class="flex-footer-1">
+  <p>Developed by Digital Haus © 2021</p>
+</div>
+</body>
+</html>
