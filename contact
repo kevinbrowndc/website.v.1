@@ -1,0 +1,121 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="The most competitive digital agency in Cyprus offering detailed analytics about your digital footprint and opportunities to increase your digital presence and grow your brand.">
+    <meta name="keywords" content="Digital Consulting, Digital Analytics, Digital Management, Digital Advocacy, Digital Design, Digital Haus">
+
+    <meta property="og:url" content="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609401650/digital_haus/social-media_avgngy.jpg" />
+    <link rel="shortcut icon" href="https://res.cloudinary.com/ddwt8eygx/image/upload/v1607613977/digital_haus/favicon_naglja.png" type="image/x-icon">
+    <link rel="icon" href="https://res.cloudinary.com/ddwt8eygx/image/upload/v1607613977/digital_haus/favicon_naglja.png" type="image/x-icon">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+              <link rel="image_src" href="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609401650/digital_haus/social-media_avgngy.jpg" />
+      <meta property="og:title" content="Contact Us. | Digital Haus"/>
+      <meta property="og:url" content="https://www.digitalhaus.io/contact.html"/>
+      <meta property="og:image" content="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609401650/digital_haus/social-media_avgngy.jpg">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="/static/style.css">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WZC91F097L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WZC91F097L');
+</script>
+
+    <title>Contact Us | Digital Haus</title>
+
+  </head>
+
+  <body>
+
+  <div class="menu-wrap">
+
+    <input type="checkbox" class="toggler">
+    <div class="hamburger"><div></div></div>
+    <div class="menu">
+      <div>
+        <div>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/services">Services</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="logo-1">
+    <a href="https://www.digitalhaus.io/" class='nav-logo'> <img src="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609399259/digital_haus/digitalhausLOGOfull1_zyaxgs.jpg" alt="Digital Haus"></a>
+  </div>
+
+
+    <div class="contact-us">
+        <h1> Drop us a line...        </h1>
+
+        <br>
+
+                <form method="post">
+                    <input id="csrf_token" name="csrf_token" type="hidden" value="ImRlYTVlMDRiNDgwMTQyMzBjZjM4ZTM0Y2NkZWQxOTRjMWM1YjI2NzUi.YF9cuQ.CPIoOJq1ZTtTDR9j98h1Kab9fk8">
+                    <label for="first_name">First Name </label><input id="first_name" name="first_name" required type="text" value="">
+                    <br><br>
+
+                    <label for="last_name">Last Name  </label><input id="last_name" name="last_name" required type="text" value="">
+                    <br><br>
+
+                    <label for="email">Email      </label><input id="email" name="email" required type="text" value="">
+                    <br><br>
+
+
+                    <label for="tel">Telephone  </label><input id="tel" name="tel" required type="text" value="">
+                    <br><br>
+
+                    <label for="country">Country    </label><input id="country" name="country" required type="text" value="">
+                    <br><br>
+
+                    <label for="message">Message    </label><textarea id="message" name="message" required></textarea>
+                    <br>
+
+                    <input id="submit" name="submit" type="submit" value="Submit">
+                </form>
+
+    </div>
+
+   <div class="footer">
+      <div class="item item-1">
+          <h3>Digital Haus</h3>
+          <p>Nikita 5, Agioi Omologites</p>
+          <p>Nicosia, Cyprus 1082</p> <br>
+        </div>
+
+        <div class="item item-2">
+          <h3>Hours</h3>
+          <p>Monday through Thursday: 9am - 6pm</p>
+          <p>Friday: 9am - 2pm</p><br>
+        </div>
+
+        <div class="item item-3">
+          <h3>Contact</h3>
+          <a href="mailto:hello@digitalhaus.io">hello@digitalhaus.io</a><br>
+          <a href="tel:+35722000174">+357 22 000 174</a><br>
+        </div>
+      </div>
+
+
+
+    <div class="flex-footer-1">
+      <p>Developed by Digital Haus © 2021</p>
+    </div>
+
+ </body>
+</html>
