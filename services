@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description" content="The most competitive digital agency in Cyprus offering detailed analytics about your digital footprint and opportunities to increase your digital presence and grow your brand.">
+  <meta name="keywords" content="Digital Consulting, Digital Analytics, Digital Management, Digital Advocacy, Digital Design, Digital Haus, SEO, Press Releases, Video, Photography, 360 Tour, Web Design, Podcasts, Audio, Branding">
+
+  <meta property="og:url" content="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609401650/digital_haus/social-media_avgngy.jpg" />
+  <link rel="shortcut icon" href="https://res.cloudinary.com/ddwt8eygx/image/upload/v1607613977/digital_haus/favicon_naglja.png" type="image/x-icon">
+  <link rel="icon" href="https://res.cloudinary.com/ddwt8eygx/image/upload/v1607613977/digital_haus/favicon_naglja.png" type="image/x-icon">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <link rel="image_src" href="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609401650/digital_haus/social-media_avgngy.jpg" />
+    <meta property="og:title" content="Our Services. | Digital Haus"/>
+    <meta property="og:url" content="https://www.digitalhaus.io/services.html"/>
+    <meta property="og:image" content="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609401650/digital_haus/social-media_avgngy.jpg">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="/static/style.css">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WZC91F097L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WZC91F097L');
+</script>
+
+  <title>Services | Digital Haus</title>
+</head>
+<body>
+
+  <div class="menu-wrap">
+    <input type="checkbox" class="toggler">
+    <div class="hamburger"><div></div></div>
+    <div class="menu">
+      <div>
+        <div>
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/services">Services</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="logo-1">
+    <a href="https://www.digitalhaus.io/" class='nav-logo'> <img src="https://res.cloudinary.com/ddwt8eygx/image/upload/v1609399259/digital_haus/digitalhausLOGOfull1_zyaxgs.jpg" alt="Digital Haus"></a>
+  </div>
+
+  <div class="flex-services">
+    <div class="twain">
+    <h3 class="services-txt-1">“Find a job you enjoy doing, and you will never have to work a day in your life.”</h3>
+    <h4 class="services-txt-2">~ Mark Twain</h4>
+    </div>
+  <div class="services-font">
+    <h4>SEO</h4>
+    <h4>Video</h4>
+    <h4>Analytics</h4>
+    <h4>Social Media</h4>
+    <h4>Web Photography</h4>
+    <h4>PPC (Online Paid Advertising)</h4>
+    <h4>Press Releases</h4>
+    <h4>Web Design</h4>
+    <h4>360° Tours</h4>
+    <h4>Branding</h4>
+    <h4>Podcasts</h4>
+    <h4>Audio</h4>
+  </div>
+  </div>
+
+  <div class="footer">
+    <div class="item item-1">
+      <h3>Digital Haus</h3>
+      <p>Nikita 5, Agioi Omologites</p>
+      <p>Nicosia, Cyprus 1082</p> <br>
+    </div>
+
+    <div class="item item-2">
+      <h3>Hours</h3>
+      <p>Monday through Thursday: 9am - 6pm</p>
+      <p>Friday: 9am - 2pm</p><br>
+    </div>
+
+    <div class="item item-3">
+      <h3>Contact</h3>
+      <a href="mailto:hello@digitalhaus.io">hello@digitalhaus.io</a><br>
+      <a href="tel:+35722000174">+357 22 000 174</a><br>
+    </div>
+  </div>
+
+
+
+<div class="flex-footer-1">
+  <p>Developed by Digital Haus © 2021</p>
+</div>
+
+
+</body>
+</html>
